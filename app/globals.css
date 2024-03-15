@@ -8,6 +8,7 @@
   font-family:
     work sans,
     sans-serif;
+  /*cursor: none;*/
 }
 
 @layer utilities {
